@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipuna Sudesh</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center"> a software undergraduate student passionate about building innovative software solutions. Currently honing my skills in MERN Stack, with a keen interest in  web development and Data science. You can find some of my projects here on GitHub, and I'm always open to collaboration and learning opportunities. Feel free to reach out to me at nipunasudesh2000@gmail.com
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunasudesh&label=Profile%20views&color=0e75b6&style=flat" alt="nipunasudesh" /> </p>
 
