@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nipuna Sudesh</h1>
-<h3 align="center"> A software undergraduate student passionate about building innovative software solutions. Currently honing my skills in MERN Stack, with a keen interest in  web development and Data science. You can find some of my projects here on GitHub, and I'm always open to collaboration and learning opportunities. Feel free to reach out to me at nipunasudesh2000@gmail.com
+<h3 align="center">Final-year Software Engineering undergraduate at the University of Kelaniya, passionate about designing and maintaining scalable software solutions. Experienced as an Intern Software Engineer at Prime Technologies Global (Pvt) Ltd, where I contributed to developing, testing, and improving software applications. Skilled in the MERN stack, with interests in web development and data science. I value teamwork, innovation, and continuous learning.
 </h3>
 
 - 📫 How to reach me **nipunasudesh2000@gmail.com**
