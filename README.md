@@ -22,69 +22,57 @@ I enjoy solving problems, designing scalable systems, implementing secure REST A
 
 ### Frontend
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40" title="Vue.js"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" title="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" title="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" title="Express.js"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="40" height="40" title="Spring Boot"/>
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40" title="Laravel"/>
 </p>
 
 ### Databases
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
 </p>
 
 ### Tools
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" title="Postman"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" title="Figma"/>
 </p>
 
----
-
-## 📊 GitHub Stats
 
 
-<p align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NIPUNASUDESH&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIPUNASUDESH&theme=tokyonight&hide_border=false" width="48%" />
+⭐ Feel free to explore my pinned repositories and connect with me!
+
+<p align="center">
+  <a href="https://linkedin.com/in/NIPUNASUDESH" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://web.facebook.com/nipuna.sudesh.52" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://nipuna-sudesh.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="mailto:nipunasudesh2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-<p align="left">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIPUNASUDESH&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
-</p>
----
-
-## 🔗 Connect with Me
-
-<a href="https://linkedin.com/in/NIPUNASUDESH" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="mailto:nipunasudesh2000@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
-</a>
-<a href="https://nipuna-sudesh.vercel.app/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/786/7867852.png" alt="Portfolio" width="40" height="40" />
-</a>
-<a href="https://web.facebook.com/nipuna.sudesh.52" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
-
 ---
 
 ## 🎯 Interests
