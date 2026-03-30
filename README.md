@@ -1,53 +1,105 @@
 <h1 align="center">Hi 👋, I'm Nipuna Sudesh</h1>
+<h3 align="center">Associate Software Engineer | Full-Stack Developer | Software Engineering Undergraduate</h3>
 
-<h3 align="center">
-Final-year Software Engineering undergraduate at the University of Kelaniya, passionate about designing and maintaining scalable software solutions. 
-Experienced as an Intern Software Engineer at Prime Technologies Global (Pvt) Ltd, where I contributed to developing, testing, and improving software applications. 
-Skilled in the MERN stack, with interests in web development and data science. 
-I value teamwork, innovation, and continuous learning.
-</h3>
+<p align="center">
+Passionate about building scalable web applications and modern full-stack solutions.
+</p>
 
----
-
-- 🌐 Portfolio: <a href="https://react-portfolio-xskj.vercel.app/" target="_blank">react-portfolio-xskj.vercel.app</a>  
-- 📫 How to reach me: **nipunasudesh2000@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nipuna-sudesh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.facebook.com/nipuna.sudesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.instagram.com/nipuna_sudesh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="nipuna" /> 
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+## 👨‍💻 About Me
+
+- 💻 Software Engineering undergraduate at **University of Kelaniya**
+- 🚀 Experienced in **MERN Stack, Spring Boot, Laravel, and Vue.js**
+- 🛠 Built multiple **full-stack web applications**
+- 🔐 Strong knowledge in **REST APIs & JWT Authentication**
+- 🎯 Currently seeking **Associate Software Engineer opportunities**
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|------------|------|
+| **Mobile Store Management System** | Full-stack e-commerce platform with admin panel and JWT authentication | MERN Stack |
+| **Weather App** | Real-time weather application with API integration | React, Vite, Tailwind |
+| **Pet Equipment Store** | Full-stack system with product & order management | React, Spring Boot, PostgreSQL |
+| **User Management System** | CRUD-based system with REST APIs | React, Spring Boot |
+| **Comparative Study System** | Research-based full-stack app with performance analysis | Node.js, MongoDB |
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
+
+### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="40" height="40"/>
+</p>
+
+### Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+### Tools
+<p>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=tokyonight"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="mailto:nipunasudesh2000@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+</a>
+</p>
+
+---
+
+## 🎯 Interests
+
+- 💻 Full-Stack Development  
+- 🌐 Web Application Development  
+- 📊 Learning new technologies  
+- 🎮 Gaming  
+- 🚀 Building real-world projects  
