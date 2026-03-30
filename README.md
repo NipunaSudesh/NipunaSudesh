@@ -1,9 +1,6 @@
 <h1 align="center">Hey 👋, I'm Nipuna Sudesh</h1>
 <h3 align="center">Associate Software Engineer | MERN Stack | Vue.js | Laravel | Full-Stack Developer</h3>
 
-<p align="center">
-Building modern, scalable web applications and exploring advanced backend architectures.
-</p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=NIPUNASUDESH&label=Profile%20views&color=0e75b6&style=flat" alt="NIPUNASUDESH" />
@@ -59,15 +56,18 @@ I enjoy solving problems, designing scalable systems, implementing secure REST A
 
 ## 📊 GitHub Stats
 
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=NIPUNASUDESH&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIPUNASUDESH&theme=tokyonight" width="48%"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NIPUNASUDESH&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIPUNASUDESH&theme=tokyonight&hide_border=false" width="48%" />
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIPUNASUDESH&layout=compact&theme=tokyonight" width="48%"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIPUNASUDESH&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
 </p>
-
 ---
 
 ## 🔗 Connect with Me
@@ -78,8 +78,8 @@ I enjoy solving problems, designing scalable systems, implementing secure REST A
 <a href="mailto:nipunasudesh2000@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
 </a>
-<a href="https://nipuna-sudesh.vercel.app/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" height="30" width="40" />
+<a href="https://nipuna-sudesh.vercel.app/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/786/7867852.png" alt="Portfolio" width="40" height="40" />
 </a>
 <a href="https://web.facebook.com/nipuna.sudesh.52" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
