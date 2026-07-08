@@ -10,11 +10,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year Software Engineering undergraduate at **University of Kelaniya** with hands-on experience in building full-stack web applications using **MERN, Laravel, and Vue.js**.  
+I recently graduated with a **BSc (Hons) in Software Engineering** from the **University of Kelaniya** and have hands-on experience building full-stack web applications using **MERN, Laravel, Next.js, and Vue.js**.
 
-I recently completed an internship at **Prime Technologies Global (Pvt) Ltd**, contributing to real-world software development, testing, debugging, and performance improvements in production environments.  
+I completed my internship at **Prime Technologies Global (Pvt) Ltd**, where I contributed to the development and maintenance of real-world web applications, testing, debugging, REST API integration, and performance improvements in production environments.
 
-I enjoy solving problems, designing scalable systems, implementing secure REST APIs, and continuously learning new technologies to deliver high-quality software solutions.
+I enjoy solving complex problems, designing scalable and secure applications, developing RESTful APIs, and continuously learning new technologies to build high-quality software solutions that deliver real business value.
+solving problems, designing scalable systems, implementing secure REST APIs, and continuously learning new technologies to deliver high-quality software solutions.
 
 ---
 
