@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nipuna Sudesh</h1>
-<h3 align="center">Associate Software Engineer | MERN Stack | Vue.js | Laravel | Full-Stack Developer</h3>
+<h3 align="center">Junior Software Engineer | MERN Stack | Next.js | Vue.js | Laravel | Full-Stack Developer</h3>
 
 
 <p align="left">
